@@ -32,7 +32,7 @@ koans.about_control_statements.AboutControlStatements
 #koans.about_modules.AboutModules
 #koans.about_packages.AboutPackages
  koans.about_class_attributes.AboutClassAttributes
- koans.about_attribute_access.AboutAttributeAccess
+# koans.about_attribute_access.AboutAttributeAccess
 # koans.about_deleting_objects.AboutDeletingObjects
 # koans.about_proxy_object_project.AboutProxyObjectProject
 # koans.about_proxy_object_project.TelevisionTest
